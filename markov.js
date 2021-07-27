@@ -62,6 +62,8 @@ class MarkovMachine {
       Math.random() * (max - min) + min
     )
   }
+
 }
+
 
 module.exports = MarkovMachine;
